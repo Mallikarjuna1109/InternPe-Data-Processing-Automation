@@ -8,25 +8,27 @@ This project demonstrates my ability to understand requirements, design modular 
 
 **Features**
 
-✔ Reads and validates raw data from an input file
+- Reads and validates raw data from an input file
 
-✔ Converts data into structured Java objects (OOP)
+- Converts data into structured Java objects (OOP)
 
-✔ Uses Collections API to sort and process data
+- Uses Collections API to sort and process data
 
-✔ Automates summary generation (total, average, count)
+- Automates summary generation (total, average, count)
 
-✔ Handles errors gracefully with exception handling
+- Handles errors gracefully with exception handling
 
-✔ Saves processed output to a text file
+- Saves processed output to a text file
 
-✔ Clean, modular, and readable code
+- Clean, modular, and readable code
 
-✔ Real-world development workflow simulation
+- Real-world development workflow simulation
 
 
 **Project Structure**
+
 InternPe-DataProcessor/
+
  ├── src/
  │    ├── Main.java
  │    ├── model/
