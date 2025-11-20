@@ -30,14 +30,20 @@ This project demonstrates my ability to understand requirements, design modular 
 InternPe-DataProcessor/
 
  ├── src/
+ 
  │    ├── Main.java
+ 
  │    ├── model/
  │    │      └── Record.java
+ 
  │    ├── processor/
  │    │      └── DataProcessor.java
+ 
  │    └── utils/
  │           └── FileUtils.java
+ 
  ├── input.txt
+ 
  └── README.md
 
 
